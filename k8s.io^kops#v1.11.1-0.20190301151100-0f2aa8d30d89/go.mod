@@ -1,0 +1,5 @@
+module k8s.io/kops-v1.11.1-0.20190301151100-0f2aa8d30d89
+
+go 1.17
+
+require k8s.io/kops v1.11.1-0.20190301151100-0f2aa8d30d89
